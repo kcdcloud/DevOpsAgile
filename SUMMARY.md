@@ -1,5 +1,6 @@
 # Summary
 
-* [Introduction](./FAQ/README.md)
+* Introduction
+* [Introduction](FAQ/README.md)
 * [Browser tools](FAQ/browsertools.md)
 
