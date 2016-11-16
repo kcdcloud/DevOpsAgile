@@ -1,4 +1,4 @@
 # Summary
 
-* Browser tools
+* [Browser tools](browser_tools.md)
 
