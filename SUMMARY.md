@@ -1,4 +1,4 @@
 # Summary
 
-* [Browser tools](FAQ/browsertoolsmd_md.md)
+* [Browser tools](FAQ/browsertools.md)
 
