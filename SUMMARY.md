@@ -6,5 +6,5 @@
 * [Introduction](KB-FAQ/README.md)
 * [Browser tools](KB-FAQ/browsertools.md)
 * [Linux](KB-FAQ/linuxmd.md)
-* WordPress
+* [WordPress](KB-FAQ/wordpress.md)
 
