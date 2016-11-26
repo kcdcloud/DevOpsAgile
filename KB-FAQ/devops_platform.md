@@ -1,7 +1,7 @@
 # DevOps Platform
 
 Наши тесты показали значительное ускорение при nginx +php5-fpm по сравнению с apache+mod_php. Пора уже использовать прогрессивные технологии, а не ставить по старинке Apache. Вот наш рецепт:
-* собственно nginx+php5-fpm
+* собственно nginx+php5-fpm так быстрее, а так nginx-front и apache-back+mod_php лучше потому-что проще
 * apc для локального кэша, memcached для сетевого
 * бд Percona XtraDB, потом перешли на MariaDB+XtraDB
 * ssd для оси, выключить журналирование, включить trim
